@@ -1,8 +1,5 @@
 # EX NO: Cloud-account-set-up-and-services
 
-Name : AFIFA A
-Reg no: 212223040008
-
 # Aim:
 To create an cloud account in AWS and to explore all of its services.
 
